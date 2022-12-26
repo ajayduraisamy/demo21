@@ -1,1 +1,2 @@
-somecode
+I am the content of log file
+Thank you !!
